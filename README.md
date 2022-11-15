@@ -1,8 +1,9 @@
 ### Olá! Me chamo Luan Rodrigues
 
-- 🔭 Hoje trabalho com front-end, porém buscando aprender também backend
-- 🌱 Estudando JavaScript (e Frameworks .JS)
-- 📫 Contate-me através do e-mail: rodriguesluandev@gmail.com
+- 🔭 Frontend (HTML5, CSS3, JavaScript)
+- 🔭 Backend (PHP, Java)
+- 🌱 Estudando Python, SQL
+- 📫 
 
 <div>
   <a href="htpps://github.com/devLuanRodrigues">
