@@ -1,4 +1,5 @@
 ### Olá! Me chamo Luan Rodrigues
+- Sou desenvolvedor Back-end com a meta de ser Full-Stack;
 
 <div>
   <a href="htpps://github.com/devLuanRodrigues">
