@@ -1,7 +1,6 @@
 ### Olá! Me chamo Luan Rodrigues
 - Sou desenvolvedor Back-end;
 - Atualmente estudando: Java e JavaScript;
-- Minha meta é ser Full-Stack;
 
 <div>
   <a href="htpps://github.com/devLuanRodrigues">
