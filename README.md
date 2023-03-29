@@ -1,5 +1,4 @@
-### Olá! Me chamo Luan Rodrigues
-- Sou desenvolvedor Back-end;
+### Hello! Luan Rodrigues here!
 
 <div>
   <a href="htpps://github.com/devLuanRodrigues">
@@ -22,5 +21,3 @@
  <div>
   <a href="https://www.linkedin.com/in/devluanrodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
- 
- ![Snake animation](https://github.com/devLuanRodrigues/devLuanRodrigues/blob/output/github-contribution-grid-snake.svg)
