@@ -8,13 +8,14 @@
  
  ---
  <div style="display: inline_block"><br>
-   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+   <img align="center" alt="HTML" height="30" width="40" src="[https://img.icons8.com/?size=100&id=90519&format=png&color=000000]">
+   <img align="center" alt="HTML" height="30" width="40" src="[https://img.icons8.com/?size=100&id=l9a5tcSnBwcf&format=png&color=000000]">
+   <img align="center" alt="HTML" height="30" width="40" src="[https://img.icons8.com/?size=100&id=38561&format=png&color=000000]">
+   <img align="center" alt="HTML" height="30" width="40" src="[https://img.icons8.com/?size=100&id=39913&format=png&color=000000]">
    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />         
+   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />   
+   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  </div>
  
  ---
