@@ -4,15 +4,12 @@
 <div>
   <p>
     I'm a Web Developer primarily focused on backend development, using Java and its Spring framework. My main tech stack includes:
-
     <ul>
       <li>Back-end: Java (Spring Framework)</li>
       <li>Databases: Oracle SQL and PostgreSQL</li>
       <li>Front-end: HTML, CSS (with Bootstrap), and JavaScript</li>
     </ul>
-
     Currently, I'm diving deeper into Angular as part of my learning journey in front-end development.
-
     I'm always looking for new challenges and opportunities to sharpen my skills! Feel free to explore my repositories or get in touch.
   </p>
 </div>
