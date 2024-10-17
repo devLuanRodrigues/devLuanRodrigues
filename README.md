@@ -1,4 +1,4 @@
-### <h2> <center> Hello! Luan Rodrigues here! </h2>
+## Hello! Luan Rodrigues here!
 <hr>
 
 <div>
